@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Andrew Stiefel is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
-summary: Andrew Stiefel is a composer living in Seattle, Washington. His music explores the intersections between written and recorded sound.
+description: John listens to sound. 
+summary: Loves sound.
 featured-img: song.jpg
 permalink: /
 ---
